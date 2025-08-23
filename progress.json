@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T06:22:14.222Z",
+  "generated_at": "2026-10-16T06:22:16.296Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -117,6 +117,97 @@
       "last_pushed_at": "2025-08-21T05:07:42.704Z",
       "language": "python",
       "lines": 10
+    },
+    "problem:35": {
+      "kind": "problem",
+      "id": "35",
+      "title": "Convert Vector to Diagonal Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/35",
+      "path": "problems/0035-convert-vector-to-diagonal-matrix",
+      "first_solved_at": "2025-08-23T11:06:24.215Z",
+      "last_pushed_at": "2025-08-23T11:06:24.215Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:83": {
+      "kind": "problem",
+      "id": "83",
+      "title": "Dot Product Calculator",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/83",
+      "path": "problems/0083-dot-product-calculator",
+      "first_solved_at": "2025-08-23T11:07:44.458Z",
+      "last_pushed_at": "2025-08-23T11:07:44.458Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:76": {
+      "kind": "problem",
+      "id": "76",
+      "title": "Calculate Cosine Similarity Between Vectors",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/76",
+      "path": "problems/0076-calculate-cosine-similarity-between-vectors",
+      "first_solved_at": "2025-08-23T11:16:12.393Z",
+      "last_pushed_at": "2025-08-23T11:16:12.393Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:65": {
+      "kind": "problem",
+      "id": "65",
+      "title": "Implement Compressed Row Sparse Matrix (CSR) Format Conversion",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/65",
+      "path": "problems/0065-implement-compressed-row-sparse-matrix-csr-format-conversion",
+      "first_solved_at": "2025-08-23T11:33:31.941Z",
+      "last_pushed_at": "2025-08-23T11:33:31.941Z",
+      "language": "python",
+      "lines": 26
+    },
+    "problem:66": {
+      "kind": "problem",
+      "id": "66",
+      "title": "Implement Orthogonal Projection of a Vector onto a Line",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/66",
+      "path": "problems/0066-implement-orthogonal-projection-of-a-vector-onto-a-line",
+      "first_solved_at": "2025-08-23T11:35:45.777Z",
+      "last_pushed_at": "2025-08-23T11:35:45.777Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:67": {
+      "kind": "problem",
+      "id": "67",
+      "title": "Implement Compressed Column Sparse Matrix Format (CSC)",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/67",
+      "path": "problems/0067-implement-compressed-column-sparse-matrix-format-csc",
+      "first_solved_at": "2025-08-23T11:40:51.773Z",
+      "last_pushed_at": "2025-08-23T11:40:51.773Z",
+      "language": "python",
+      "lines": 23
+    },
+    "problem:27": {
+      "kind": "problem",
+      "id": "27",
+      "title": "Transformation Matrix from Basis B to C",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/27",
+      "path": "problems/0027-transformation-matrix-from-basis-b-to-c",
+      "first_solved_at": "2025-08-23T11:44:21.531Z",
+      "last_pushed_at": "2025-08-23T11:44:21.531Z",
+      "language": "python",
+      "lines": 6
     }
   }
 }
