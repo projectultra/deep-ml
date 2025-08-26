@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T06:22:16.296Z",
+  "generated_at": "2026-10-16T06:22:18.767Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -208,6 +208,32 @@
       "last_pushed_at": "2025-08-23T11:44:21.531Z",
       "language": "python",
       "lines": 6
+    },
+    "problem:118": {
+      "kind": "problem",
+      "id": "118",
+      "title": "Compute the Cross Product of Two 3D Vectors",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/118",
+      "path": "problems/0118-compute-the-cross-product-of-two-3d-vectors",
+      "first_solved_at": "2025-08-26T03:53:23.783Z",
+      "last_pushed_at": "2025-08-26T03:53:23.783Z",
+      "language": "python",
+      "lines": 9
+    },
+    "problem:84": {
+      "kind": "problem",
+      "id": "84",
+      "title": "Phi Transformation for Polynomial Features",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/84",
+      "path": "problems/0084-phi-transformation-for-polynomial-features",
+      "first_solved_at": "2025-08-26T03:57:22.539Z",
+      "last_pushed_at": "2025-08-26T03:57:22.539Z",
+      "language": "python",
+      "lines": 18
     }
   }
 }
